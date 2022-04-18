@@ -99,7 +99,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/keisuio',
+                href: 'https://twitter.com/keisu_io',
               },
             ],
           },
